@@ -1,0 +1,25 @@
+{
+  "student": [
+    {
+      "rollno": "101",
+      "name": "ANKIT",
+      "city": "BHOPAL",
+      "fees": "45000",
+      "id": 1
+    },
+    {
+      "rollno": "102",
+      "name": "nitin sujaria",
+      "city": "dubai",
+      "fees": "25900",
+      "id": 2
+    },
+    {
+      "rollno": "1234",
+      "name": "Rahul sharma raj",
+      "city": "jehanabad",
+      "fees": "9000",
+      "id": 3
+    }
+  ]
+}
